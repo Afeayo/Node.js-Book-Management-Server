@@ -1,0 +1,18 @@
+secon semester Assignment 3 Answer
+Node.js Book Management Server
+This Node.js server provides a simple HTTP API for managing books. It supports operations such as retrieving all books, adding a new book, updating an existing book, deleting a book, and retrieving a book by its ID.
+
+Features
+GET /books: Retrieve all books.
+GET /books/:id: Retrieve a specific book by its ID.
+POST /books: Add a new book.
+PUT /books/:id: Update an existing book.
+PATCH /books/:id: Partially update an existing book.
+DELETE /books/:id: Delete a book by its ID.
+
+
+Authentication = {
+    User Name = admin
+    password:password
+}
+    
